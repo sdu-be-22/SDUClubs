@@ -37,3 +37,9 @@ This app can be used by sdudent who wants to join clubs and read news.
 ![image](https://github.com/sdu-be-22/SDUClubs/blob/cb56f373c76082788e374e6319a1703e2d3cec4e/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-05-06%20%D0%B2%2013.12.30.png)
 ![image](https://github.com/sdu-be-22/SDUClubs/blob/cb56f373c76082788e374e6319a1703e2d3cec4e/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-05-06%20%D0%B2%2013.17.14.png)
 ![image](https://github.com/sdu-be-22/SDUClubs/blob/cb56f373c76082788e374e6319a1703e2d3cec4e/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-05-06%20%D0%B2%2013.19.05.png)
+
+
+
+
+# `Presentation 
+https://www.canva.com/design/DAFBE5kHmXw/6p1DtuX61MQqaCe1X6qZDA/edit#
